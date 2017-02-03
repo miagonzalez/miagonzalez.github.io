@@ -488,8 +488,15 @@ h6,
 #header3-w .mbr-section-subtitle {
   text-align: center;
 }
+#header3-w H3 {
+  color: #ffffff;
+}
 #features6-d P {
   text-align: left;
+  color: #ffffff;
+}
+#features6-d H4 {
+  color: #ffffff;
 }
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
