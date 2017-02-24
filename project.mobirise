@@ -161,7 +161,7 @@
             "showButtons": true
           },
           "title": "<p>Mia K. Gonzalez</p>",
-          "text": "\"The greatest enemy of knowledge is not ignorance, it is the illution of knowledge.\"  -Stephen Hawking<br>",
+          "text": "\"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.\"  -Stephen Hawking<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>"
         },
         {
@@ -463,7 +463,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mk-1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mk%201-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mk-1-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -473,7 +473,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mk-2-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mk%202-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mk-2-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -483,7 +483,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mk-4-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mk%204-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mk-4-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -639,7 +639,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mk-3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mk%203-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mk-3-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -649,7 +649,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mk-4-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mk%204-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mk-4-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
