@@ -262,7 +262,7 @@
           "_anchor": "contacts4-y",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -317,8 +317,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1m",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
