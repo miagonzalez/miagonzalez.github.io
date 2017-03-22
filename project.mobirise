@@ -649,6 +649,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mia-gonzalez-8-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mia-gonzalez-8-2000x3000.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mia-gonzalez-9-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mia-gonzalez-9-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mia-gonzalez-11-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mia-gonzalez-11-2000x3000.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
