@@ -487,8 +487,9 @@ h6,
 #header5-12 .mbr-section-title P {
   color: #efefef;
 }
-#msg-box4-28 H3 {
-  color: #efefef;
+#msg-box8-2a .mbr-section-title,
+#msg-box8-2a p {
+  color: #fff;
 }
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {

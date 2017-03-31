@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 81,
+    "uniqCompNum": 83,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -165,59 +165,38 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>"
         },
         {
-          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-28",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2a",
           "_params": {
-            "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222222",
             "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "showText": true,
+            "showButton": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO VIDEO",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#efefef"
-            }
-          }
+          "title": "Introducing Myself Video&nbsp;",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Youtube Video</a>"
         },
         {
           "_styles": {
@@ -235,11 +214,11 @@
           "_anchor": "header3-1j",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#000000",
             "showMeta": true
           },
-          "title": "Pictures I've Taken",
+          "title": "Preview of my Work",
           "meta": ""
         },
         {
@@ -256,8 +235,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -266,18 +245,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mia-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mia-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -286,10 +265,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/47-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/47-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "2",
@@ -316,7 +295,7 @@
           },
           "_anchor": "contacts4-y",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -372,7 +351,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1m",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
